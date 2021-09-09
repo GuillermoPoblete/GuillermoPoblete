@@ -1,0 +1,1 @@
+- 👋 I'm a MSc in Data Mining and System Engineer, working on software development to predict psychiatric illnesses, based on Resting-State fMRI and genetics studies, using Machine Learning techniques.
